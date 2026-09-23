@@ -1,0 +1,77 @@
+name: Update publications and publish website
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      refresh_scholar:
+        description: Check Google Scholar before publishing
+        type: boolean
+        default: true
+  schedule:
+    - cron: '17 2 * * 1'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: send-lab-pages
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_scholar)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - name: Check synchronization safeguards
+        run: python -m unittest test_sync_scholar.py
+      - name: Read public profile and reconcile publications
+        run: python sync_scholar.py
+      - name: Save verified updates and check timestamp
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add publications.html publications-data.json scholar-sync-state.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update publications from public Google Scholar profile'
+            git push origin HEAD:main
+          fi
+
+  publish:
+    needs: sync
+    if: always() && (needs.sync.result == 'success' || needs.sync.result == 'skipped')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Stage public website
+        run: |
+          python -m pip install -r requirements.txt
+          python sync_scholar.py --render-only
+          python prepare_pages.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v4
