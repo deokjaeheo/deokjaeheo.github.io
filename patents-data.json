@@ -1,0 +1,142 @@
+{
+  "source_date": "2026-09-22",
+  "patents": [
+    {
+      "category": "granted",
+      "title": "Triboelectric nanogenerator using crumbled charge ball and its operating method",
+      "title_ko": "클럼플드 대전볼을 이용한 마찰대전 나노발전기 및 그 작동방법",
+      "inventors": "Sangmin Lee, Jinho Son, Kyunghwan Cha, Seh-hoon Chung, Deokjae Heo",
+      "inventors_ko": "이상민, 손진호, 차경환, 정세훈, 허덕재",
+      "number": "KR 10-2921448",
+      "date": "2026-01-28"
+    },
+    {
+      "category": "granted",
+      "title": "2) Self-enhanced triboelectric nanogenerator based on unidirectional charge accumulation and its operating method",
+      "title_ko": "단방향 전하 축적 기반 자체 강화 마찰대전 나노발전기 및 그 작동방법",
+      "inventors": "Sangmin Lee, Deokjae Heo, Jinho Son, Jiwoong Hur",
+      "inventors_ko": "이상민, 허덕재, 손진호, 허지웅",
+      "number": "KR 10-2834298",
+      "date": "2025-07-18"
+    },
+    {
+      "category": "granted",
+      "title": "3) Flutter-based triboelectric nanogenerator and its operating method",
+      "title_ko": "플러터 기반 마찰대전나노발전기 및 그 작동방법",
+      "inventors": "Sangmin Lee, Deokjae Heo, Jinho Son, Dongchang Kim, Myunghwan Song, Hanwook Ryu, Subin In",
+      "inventors_ko": "이상민, 허덕재, 손진호, 김동창, 송명환, 류한욱, 인수빈",
+      "number": "KR 10-2744124",
+      "date": "2024-12-13"
+    },
+    {
+      "category": "granted",
+      "title": "Triboelectric nanogenerator using film capacitor and its operating method",
+      "title_ko": "필름캐패시터를 이용한 마찰대전 발전기 및 그 작동방법",
+      "inventors": "Sangmin Lee, Seh-hoon Chung, Jihoon Chung, Kyunghwan Cha, Myunghwan Song, Junseok Lee, Deokjae Heo, Dongchang Kim",
+      "inventors_ko": "이상민, 정세훈, 정지훈, 차경환, 송명환, 이준석, 허덕재, 김동창",
+      "number": "KR 10-2720569",
+      "date": "2024-10-17"
+    },
+    {
+      "category": "granted",
+      "title": "A pillar-type triboelectric nanogenerator with output current amplification using a moving electrode and its operating method",
+      "title_ko": "이동전극을 이용한 출력전류 증폭 필라형 마찰대전나노발전기 및 그 작동방법",
+      "inventors": "Sangmin Lee, Dongchang Kim, Jihoon Chung, Deokjae Heo, Seh-hoon Chung",
+      "inventors_ko": "이상민, 김동창, 정지훈, 허덕재, 정세훈",
+      "number": "KR 10-2707296",
+      "date": "2024-09-11"
+    },
+    {
+      "category": "granted",
+      "title": "Yo-yo type energy harvesting device",
+      "title_ko": "요요 타입 에너지 수확 장치",
+      "inventors": "Sunghan Kim, Sangmin Lee, Jihoon Chung, Deokjae Heo, Gunsub Shin, Chanhee Lee, Minhyung Seok",
+      "inventors_ko": "김승한, 이상민, 정지훈, 허덕재, 신건섭, 이찬희, 석민형",
+      "number": "KR 10-2554081",
+      "date": "2023-07-06"
+    },
+    {
+      "category": "granted",
+      "title": "Energy harvesting device using charge separation of water",
+      "title_ko": "물의 전하 분리를 이용한 에너지 하베스팅 장치",
+      "inventors": "Sangmin Lee, Jihoon Chung, Deokjae Heo, Gunsub Shin",
+      "inventors_ko": "이상민, 정지훈, 허덕재, 신건섭",
+      "number": "KR 10-2399679",
+      "date": "2022-05-16"
+    },
+    {
+      "category": "granted",
+      "title": "Wind energy utilization type energy harvesting device",
+      "title_ko": "바람 에너지 활용 타입 에너지 수확 장치",
+      "inventors": "Sunghan Kim, Sangmin Lee, Jihoon Chung, Deokjae Heo, Gunsub Shin, Dongmin Go, Minju Lee",
+      "inventors_ko": "김승한, 이상민, 정지훈, 허덕재, 신건섭, 고동민, 이민주",
+      "number": "KR 10-2402974",
+      "date": "2022-05-24"
+    },
+    {
+      "category": "granted",
+      "title": "Loss energy harvesting device of power cable",
+      "title_ko": "전력 케이블의 손실 에너지 하베스팅 장치",
+      "inventors": "Sangmin Lee, Hyungseok Yong, Deokjae Heo, Banseok Kim, Gunsub Shin",
+      "inventors_ko": "이상민, 용형석, 허덕재, 김반석, 신건섭",
+      "number": "KR 10-2379603",
+      "date": "2022-03-23"
+    },
+    {
+      "category": "granted",
+      "title": "10) Triboelectric nanogenerator enabling energy harvesting by triboelectrification and field emission",
+      "title_ko": "마찰대전 및 전계방출에 의한 에너지 수확을 가능하게 하는 정전소자",
+      "inventors": "Sangmin Lee, Jihoon Chung, Deokjae Heo",
+      "inventors_ko": "이상민, 정지훈, 허덕재",
+      "number": "KR 10-2259054",
+      "date": "2021-05-26"
+    },
+    {
+      "category": "granted",
+      "title": "Energy harvester using inhalation and self-powered gas mask using the same",
+      "title_ko": "흡기를 이용한 에너지 수확기 및 이를 이용한 자가발전 방독면",
+      "inventors": "Sangmin Lee, Jihoon Chung, Hyungseok Yong, Minsu Kim, Hyungseok Kim, Jaewoong Cho, Yunjong Ju, Deokjae Heo",
+      "inventors_ko": "이상민, 정지훈, 용형석, 김민수, 김형석, 조재웅, 주윤종, 허덕재",
+      "number": "KR 10-2132098",
+      "date": "2020-07-02"
+    },
+    {
+      "category": "granted",
+      "title": "Pendulum type triboelectric energy harvesting device",
+      "title_ko": "진자 운동 타입 마찰대전 에너지 하베스팅 장치",
+      "inventors": "Sangmin Lee, Taehoon Kim, Kyungtak Yu, Deokjae Heo, Hyungseok Yong",
+      "inventors_ko": "이상민, 김태훈, 유경탁, 허덕재, 용형석",
+      "number": "KR 10-1885024",
+      "date": "2018-07-27"
+    },
+    {
+      "category": "application",
+      "title": "Rowing machine integrated triboelectric nanogenerator and its operating method",
+      "title_ko": "로잉머신 통합형 마찰전기 나노발전기 및 작동방법",
+      "inventors": "Sangmin Lee, Seh-hoon Chung, Jaeung Choi, Deokjae Heo",
+      "inventors_ko": "이상민, 정세훈, 최재웅, 허덕재",
+      "number": "KR 10-2025-0183903",
+      "date": "2025-11-27"
+    },
+    {
+      "category": "application",
+      "title": "Energy harvester by triboelectrification based on double pendulum",
+      "title_ko": "이중진자 기반 마찰대전에 의한 에너지 수확기",
+      "inventors": "Sunghan Kim, Sangmin Lee, Juhan Kim, Hyangjeok Kim, Sangjae Chung, Deokjae Heo, Banseok Kim, Gunsub Shin",
+      "inventors_ko": "김승한, 이상민, 김주한, 김향적, 정상재, 허덕재, 김반석, 신건섭",
+      "number": "KR 10-2020-0054859",
+      "date": "2020-05-08"
+    },
+    {
+      "category": "international",
+      "title": "Flutter-based triboelectric nanogenerator and method of operating the same",
+      "title_ko": "플러터 기반 마찰대전나노발전기 및 그 작동방법",
+      "inventors": "Sangmin Lee, Deokjae Heo, Jin-ho Son, Dongchang Kim, Myunghwan Song, Hanwook Ryu, Subin In",
+      "inventors_ko": "이상민, 허덕재, 손진호, 김동창, 송명환, 류한욱, 인수빈",
+      "numbers": [
+        "US 19/216,911",
+        "EP 23907253.1"
+      ]
+    }
+  ]
+}

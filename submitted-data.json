@@ -1,0 +1,16 @@
+{
+  "manuscripts": [
+    {
+      "id": "onesnap",
+      "title": "One-step single extracellular vesicle nanoplasmonic analysis platform (oneSNAP) for highly efficient biomarker profiling",
+      "authors_html": "<strong>Deokjae Heo</strong><sup>†</sup>, Moonhyun Choi<sup>†</sup>, Jaesang Hong, Joongbum Lee, Donato Conteduca, Jinkee Hong, Hyungsoon Im<sup>*</sup>",
+      "status": "Submitted"
+    },
+    {
+      "id": "pcl-oval-tunnels",
+      "title": "Anatomical Single-Bundle Posterior Cruciate Ligament Reconstruction with Oval Tunnels: Biomechanical Comparison with Round Tunnels in a Porcine Model",
+      "authors_html": "Jin-Woong Jeon, Yong-Beom Park, Seong Hwan Kim, Han-Jun Lee, Sangmin Lee, <strong>Deokjae Heo</strong>, Kyunghwan Cha",
+      "status": "Submitted"
+    }
+  ]
+}

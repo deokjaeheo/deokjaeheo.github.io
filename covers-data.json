@@ -1,0 +1,28 @@
+{
+  "covers": [
+    {
+      "image": "cover-aem-2022.png",
+      "journal": "Advanced Energy Materials",
+      "kind": "Front Cover",
+      "issue": "12(31) · 2022",
+      "doi": "10.1002/aenm.202201001",
+      "title": "Inhalation-driven vertical flutter triboelectric nanogenerator with amplified output as a gas-mask-integrated self-powered multifunctional system"
+    },
+    {
+      "image": "cover-advs-2022.png",
+      "journal": "Advanced Science",
+      "kind": "Inside Front Cover",
+      "issue": "9(8) · 2022",
+      "doi": "10.1002/advs.202105420",
+      "title": "Stress Dissipation Encoded Silk Fibroin Electrode for the Athlete-beneficial Silk Bioelectronics"
+    },
+    {
+      "image": "cover-aem-2019.png",
+      "journal": "Advanced Energy Materials",
+      "kind": "Front Cover",
+      "issue": "9(37) · 2019",
+      "doi": "10.1002/aenm.201901731",
+      "title": "Ion-Enhanced Field Emission Triboelectric Nanogenerator"
+    }
+  ]
+}
