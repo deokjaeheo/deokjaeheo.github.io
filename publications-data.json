@@ -23,7 +23,7 @@
     {
       "id": "10.1016/j.nanoen.2026.111767",
       "title": "Origami-Structured Ultrahigh-Performance Triboelectric Nanogenerator with Directed Charge Polarization and Enhanced Discharge Mechanism",
-      "journal": "Nano Energy , 150, 111767 (2026.04)",
+      "journal": "Nano Energy 150, 111767 (2026.04)",
       "authors_html": "<strong>Deokjae Heo</strong><sup>†</sup>, Hanwook Ryu<sup>†</sup>, Jaeung Choi, Seh-Hoon Chung, Myunghwan Song, Sunghan Kim, Jinkee Hong<sup>*</sup>, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.1016/j.nanoen.2026.111767",
       "year": 2026,
@@ -71,11 +71,11 @@
       "category": "sci"
     },
     {
-      "id": "curated-8",
+      "id": "10.4055/cios24081",
       "title": "Oval Tunnel Shows Better Rotational Stability Than Round Tunnel in Anatomical Single-Bundle Anterior Cruciate Ligament Reconstruction: Biomechanical Study in a Porcine Model",
-      "journal": "Clinics in Orthopedic Surgery 16(6) 925–931 (2024.12)",
+      "journal": "Clinics in Orthopedic Surgery 16(6), 925–931 (2024.12)",
       "authors_html": "Seong Hwan Kim<sup>†</sup>, Kyu-Tae Kang<sup>†</sup>, Han-Jun Lee, <strong>Deokjae Heo</strong>, Kyunghwan Cha, Sangmin Lee, Yong-Beom Park<sup>*</sup>",
-      "url": "https://scholar.google.com/scholar?q=Oval%20Tunnel%20Shows%20Better%20Rotational%20Stability%20Than%20Round%20Tunnel%20in%20Anatomical%20Single-Bundle%20Anterior%20Cruciate%20Ligament%20Reconstruction%3A%20Biomechanical%20Study%20in%20a%20Porcine%20Model",
+      "url": "https://doi.org/10.4055/cios24081",
       "year": 2024,
       "sort_date": "2024-12-01",
       "category": "sci"
@@ -104,7 +104,7 @@
       "id": "10.1002/adfm.202406032",
       "title": "Ultra-High Peak Power Generation for Rotational Triboelectric Nanogenerator via Simple Charge Control and Boosted Discharge Design",
       "journal": "Advanced Functional Materials 34(41), 2406032 (2024.10.08)",
-      "authors_html": "<strong>Deokjae Heo</strong><sup>†</sup>, Jin-ho Son<sup>†</sup>, Jiwoong Hur, Hyungseok Yong, Kyunghwan Cha, Patrick T.J. Hwang, Bonwook Koo, Yunki Gwak, Youngho Jin, Dongseob Kim<sup>*</sup>, Jinkee Hong<sup>*</sup>, Sangmin Lee<sup>*</sup>",
+      "authors_html": "<strong>Deokjae Heo</strong><sup>†</sup>, Jin-ho Son<sup>†</sup>, Jiwoong Hur, Hyungseok Yong, Kyunghwan Cha, Patrick T.J. Hwang, Bonwook Koo, Yunki Gwak, Youngho Jin, Dongseob Kim<sup>*</sup>, Jinkee Hong<sup>*</sup>, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.1002/adfm.202406032",
       "year": 2024,
       "sort_date": "2024-10-08",
@@ -121,11 +121,11 @@
       "category": "sci"
     },
     {
-      "id": "curated-13",
+      "id": "10.1126/sciadv.adl3075",
       "title": "Anisotropic Liesegang Pattern for the Nonlinear Elastic Biomineral-Hydrogel Complex",
       "journal": "Science Advances 10(17), eadl3075 (2024.04.26)",
       "authors_html": "Woojin Choi<sup>†</sup>, Milae Lee<sup>†</sup>, Hyungseok Yong<sup>†</sup>, <strong>Deokjae Heo</strong>, Taesuk Jun, Hanwook Ryu, Ji-Yeong Kim, Dingyun Cui, Du Yeol Ryu, Sang-Young Lee, Sung-Hwan Choi, Byeong-Su Kim, Jiyu Kim, Se Yong Jung, Sangmin Lee<sup>*</sup>, Jinkee Hong<sup>*</sup>",
-      "url": "https://scholar.google.com/scholar?q=Anisotropic%20Liesegang%20Pattern%20for%20the%20Nonlinear%20Elastic%20Biomineral-Hydrogel%20Complex",
+      "url": "https://doi.org/10.1126/sciadv.adl3075",
       "year": 2024,
       "sort_date": "2024-04-26",
       "category": "sci"
@@ -154,7 +154,7 @@
       "id": "10.1016/j.cej.2023.144283",
       "title": "Sustainable utilization of aging-deteriorated microplastics as triboelectric nanogenerator",
       "journal": "Chemical Engineering Journal 470, 144283 (2023.08.15)",
-      "authors_html": "Seongeun Cho<sup>†</sup>, Kyunghwan Cha<sup>†</sup>, Banseok Kim, Joonseok Lee, Kyungtae Park, Seh-Hoon Chung, Dongchang Kim, Myunghwan Song, <strong>Deokjae Heo</strong>, Jin-ho Son, Moonhyun Choi, Zong-Hong Lin, Jinkee Hong<sup>*</sup>, Sangmin Lee<sup>*</sup>",
+      "authors_html": "Seongeun Cho<sup>†</sup>, Kyunghwan Cha<sup>†</sup>, Banseok Kim, Joonseok Lee, Kyungtae Park, Seh-Hoon Chung, Myunghwan Song, <strong>Deokjae Heo</strong>, Jin-ho Son, Moonhyun Choi, Zong-Hong Lin, Jinkee Hong<sup>*</sup>, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.1016/j.cej.2023.144283",
       "year": 2023,
       "sort_date": "2023-08-15",
@@ -183,7 +183,7 @@
     {
       "id": "10.1021/acsenergylett.3c00708",
       "title": "Synchronous generation of electrical and cellular energies via body-mediated energy transfer: inevitable electric field concentration",
-      "journal": "ACS Energy Letters , 8(7), 2954-2961 (2023.06.09) (Supplementary Cover)",
+      "journal": "ACS Energy Letters 8(7), 2954-2961 (2023.06.09) (Supplementary Cover)",
       "authors_html": "Hyungseok Yong<sup>†</sup>, Hyeonhui Song<sup>†</sup>, Dongchang Kim<sup>†</sup>, Juneil Park, <strong>Deokjae Heo</strong>, Kyunghwan Cha, Myunghwan Song, Sungwon Jung, Woo Jin Choi, Patrick T.J. Hwang, Sunghan Kim, Woochul Nam, Giuk Lee, Jinkee Hong<sup>*</sup>, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.1021/acsenergylett.3c00708",
       "year": 2023,
@@ -293,8 +293,8 @@
     {
       "id": "10.1016/j.nanoen.2021.106816",
       "title": "Semisolid-lubricant-based ball-bearing triboelectric nanogenerator for current amplification, enhanced mechanical lifespan, and thermal stabilization",
-      "journal": "Nano Energy , 93, 106816 (2022.03)",
-      "authors_html": "Myunghwan Song<sup>†</sup>, Jihoon Chung<sup>†</sup>, Seh-Hoon Chung, Kyunghwan Cha, <strong>Deokjae Heo</strong>, Sunghan Kim, Patrick Hwang, Dongseob Kim, Bonwook Koo<sup>*</sup>, Jinkee Hong<sup>*</sup>, Sangmin Lee<sup>*</sup>",
+      "journal": "Nano Energy 93, 106816 (2022.03)",
+      "authors_html": "Myunghwan Song<sup>†</sup>, Jihoon Chung<sup>†</sup>, Seh-Hoon Chung, Kyunghwan Cha, <strong>Deokjae Heo</strong>, Sunghan Kim, Patrick T.J. Hwang, Dongseob Kim, Bonwook Koo<sup>*</sup>, Jinkee Hong<sup>*</sup>, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.1016/j.nanoen.2021.106816",
       "year": 2022,
       "sort_date": "2022-03-01",
@@ -303,7 +303,7 @@
     {
       "id": "10.1016/j.nanoen.2021.106797",
       "title": "Highly reliable triboelectric bicycle tire as self-powered bicycle safety light and pressure sensor",
-      "journal": "Nano Energy , 93, 106797 (2022.03)",
+      "journal": "Nano Energy 93, 106797 (2022.03)",
       "authors_html": "Jin-ho Son<sup>†</sup>, <strong>Deokjae Heo</strong><sup>†</sup>, Yeonsu Song, Jihoon Chung, Banseok Kim, Woochul Nam, Patrick T.J. Hwang, Dongseob Kim, Bonwook Koo<sup>*</sup>, Jinkee Hong<sup>*</sup>, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.1016/j.nanoen.2021.106797",
       "year": 2022,
@@ -313,7 +313,7 @@
     {
       "id": "10.1080/14686996.2022.2030195",
       "title": "Lightweight mobile stick-type water-based triboelectric nanogenerator with amplified current for portable safety devices",
-      "journal": "Science and Technology of Advanced Materials , 23(1), 161-168 (2022.02.17)",
+      "journal": "Science and Technology of Advanced Materials 23(1), 161-168 (2022.02.17)",
       "authors_html": "Kyunghwan Cha<sup>†</sup>, Jihoon Chung, <strong>Deokjae Heo</strong>, Myunghwan Song, Seh-Hoon Chung, Patrick T.J. Hwang, Dongseob Kim, Bonwook Koo<sup>*</sup>, Jinkee Hong<sup>*</sup>, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.1080/14686996.2022.2030195",
       "year": 2022,
@@ -323,7 +323,7 @@
     {
       "id": "10.4313/jkem.2022.35.1.15",
       "title": "Water-Sloshing-Based Electricity Generating Device via Charge Separation and Accumulation",
-      "journal": "Journal of Korean Institute of Electrical and Electronic Materials Engineers 35(1), 98–101 (2022.01.01)",
+      "journal": "Journal of the Korean Institute of Electrical and Electronic Material Engineers 35(1), 98–101 (2022.01.01)",
       "authors_html": "Kyunghwan Cha<sup>†</sup>, <strong>Deokjae Heo</strong><sup>†</sup>, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.4313/JKEM.2022.35.1.15",
       "year": 2022,
@@ -334,7 +334,7 @@
       "id": "10.1016/j.nanoen.2021.106209",
       "title": "Body-mediated energy loss conversion for personalized cell vitalization",
       "journal": "Nano Energy 87, 106209 (2021.09)",
-      "authors_html": "Hyungseok Yong<sup>†</sup>, S. Jung<sup>†</sup>, <strong>Deokjae Heo</strong>, Woojin. Choi, Jihoon Chung, Seongeun Cho, Patrick Hwang, Hyeonhui Song, Won-gun Ko, Sangmin Lee<sup>*</sup>, Jinkee Hong<sup>*</sup>",
+      "authors_html": "Hyungseok Yong<sup>†</sup>, Sungwon Jung<sup>†</sup>, <strong>Deokjae Heo</strong>, Woojin Choi, Jihoon Chung, Seongeun Cho, Patrick Hwang, Hyeonhui Song, Won-gun Koh, Wonhwa Lee<sup>*</sup>, Sangmin Lee<sup>*</sup>, Jinkee Hong<sup>*</sup>",
       "url": "https://doi.org/10.1016/j.nanoen.2021.106209",
       "year": 2021,
       "sort_date": "2021-09-01",
@@ -344,18 +344,18 @@
       "id": "10.1016/j.isci.2021.102442",
       "title": "A portable device for water-sloshing-based electricity generation based on charge separation and accumulation",
       "journal": "iScience 24(5), 102442 (2021.05.21)",
-      "authors_html": "Jihoon Chung<sup>†</sup>, ​<strong>Deokjae Heo</strong><sup>†</sup>, Kyunghwan Cha<sup>†</sup>, Zong-Hong Lin, Jinkee Hong<sup>*</sup>, Sangmin Lee<sup>*</sup>",
+      "authors_html": "Jihoon Chung<sup>†</sup>, <strong>Deokjae Heo</strong><sup>†</sup>, Kyunghwan Cha<sup>†</sup>, Zong-Hong Lin, Jinkee Hong<sup>*</sup>, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.1016/j.isci.2021.102442",
       "year": 2021,
       "sort_date": "2021-05-21",
       "category": "sci"
     },
     {
-      "id": "curated-36",
+      "id": "10.3390/nano11040940",
       "title": "Fabrication of graphene based durable intelligent personal protective clothing for conventional and non-conventional chemical threats",
-      "journal": "Nanomaterials 11(4), 940​ (2021.04.07)",
-      "authors_html": "Youngho Jin<sup>*</sup>, Dongwon Ka, Seongon Jang, <strong>Deokjae Heo</strong>, Jin Ah Seo, Hyunsook Jung, Keunhong Jeoung, Sangmin Lee<sup>*</sup>",
-      "url": "https://scholar.google.com/scholar?q=Fabrication%20of%20graphene%20based%20durable%20intelligent%20personal%20protectiveclothing%20for%20convectional%20and%20non-%20conventional%20chemical%20threats",
+      "journal": "Nanomaterials 11(4), 940 (2021.04.07)",
+      "authors_html": "Youngho Jin<sup>*</sup>, Dongwon Ka, Seongon Jang, <strong>Deokjae Heo</strong>, Jin Ah Seo, Hyunsook Jung, Keunhong Jeong, Sangmin Lee<sup>*</sup>",
+      "url": "https://doi.org/10.3390/nano11040940",
       "year": 2021,
       "sort_date": "2021-04-07",
       "category": "sci"
@@ -373,8 +373,8 @@
     {
       "id": "10.3390/en14071798",
       "title": "Yo-Yo inspired triboelectric nanogenerator",
-      "journal": "Energies 14(7), 1798, (2021.03.24)",
-      "authors_html": "<strong>Deokjae Heo</strong><sup>†</sup>, Jihoon Chung<sup>†</sup>, Gunsub Shin, Minhyeong Seok, CHANHEE LEE, Sangmin Lee<sup>*</sup>",
+      "journal": "Energies 14(7), 1798 (2021.03.24)",
+      "authors_html": "<strong>Deokjae Heo</strong><sup>†</sup>, Jihoon Chung<sup>†</sup>, Gunsub Shin, Minhyeong Seok, Chanhee Lee, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.3390/en14071798",
       "year": 2021,
       "sort_date": "2021-03-24",
@@ -382,7 +382,7 @@
     },
     {
       "id": "10.1016/j.nanoen.2020.104719",
-      "title": "Triboelectric speed bump as self-powered automobile warning and velocity sensor",
+      "title": "Triboelectric speed bump as a self-powered automobile warning and velocity sensor",
       "journal": "Nano Energy 72, 104719 (2020.06)",
       "authors_html": "<strong>Deokjae Heo</strong><sup>†</sup>, Jihoon Chung<sup>†</sup>, Banseok Kim, Hyungseok Yong, Gunsub Shin, Jung-Woo Cho, Dongseob Kim<sup>*</sup>, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.1016/j.nanoen.2020.104719",
