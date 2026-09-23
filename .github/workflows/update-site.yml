@@ -8,9 +8,8 @@ on:
       refresh_scholar:
         description: Check Google Scholar before publishing
         type: boolean
-        default: true
-  schedule:
-    - cron: '17 2 * * 1'
+        default: false
+  # Scheduled Scholar checks remain disabled while Google blocks GitHub runners.
 
 permissions:
   contents: read
@@ -21,7 +20,7 @@ concurrency:
 
 jobs:
   sync:
-    if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh_scholar)
+    if: github.event_name == 'workflow_dispatch' && inputs.refresh_scholar
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
