@@ -22,7 +22,9 @@ Keep publication corrections in `publications-data.json`, not only in the genera
 
 ## Google Scholar updates
 
-The workflow checks Deokjae Heo's public Scholar profile weekly (Monday, approximately 11:17 Korea time). You can also open **Actions → Update publications and publish website → Run workflow**. It is a best-effort check, not an official Google Scholar API or a real-time connection. GitHub may delay scheduled jobs.
+**Current status (23 September 2026):** the public-profile check succeeded locally, but its first GitHub Actions run was rejected by Google Scholar with HTTP 403. Scheduled checks are disabled; automatic Scholar-to-website synchronization is **not active**. Website publishing works independently and continues on every push. Update publications through `publications-data.json` in the meantime.
+
+The prepared check can be run manually from **Actions → Update publications and publish website → Run workflow** with **Check Google Scholar before publishing** enabled. It is a best-effort check, not an official Google Scholar API or a real-time connection. Do not enable scheduled checks until access is confirmed working; do not bypass Google access restrictions.
 
 The script respects Scholar's robots rules, makes no authenticated requests, and does not bypass access restrictions. It reads the latest public profile records without pagination. New publications need an unambiguous matching Crossref DOI, title, publication year and full author name before being added. Existing publications are never deleted automatically. It retains curated metadata until that field changes on Scholar.
 
