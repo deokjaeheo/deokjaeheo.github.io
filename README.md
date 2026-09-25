@@ -17,3 +17,11 @@ Run `python render_publications.py`, `python -m unittest test_publications.py`, 
 The published site contains only the allowlisted public HTML, styles, scripts and image assets. Maintenance data and scripts remain in this public source repository, so do not store private materials anywhere in it.
 
 `sync_scholar.py --render-only` is a compatibility alias; automatic Scholar fetching has been removed.
+
+## Visit analytics
+
+`analytics.js` connects the public pages to the owner's private Google Analytics 4 property. The measurement ID is public configuration, not an access credential. Never put dashboard credentials, visitor exports or access tokens in this repository.
+
+The footer contains a plain-text collection notice without a link. `privacy.html` provides additional details and a per-browser opt-out when opened directly. The script respects Do Not Track / Global Privacy Control, skips previews and the privacy page, omits query strings and URL fragments, and disables Google signals and ad personalization. Analytics cookies are host-only and expire within 90 days. Enhanced measurement is disabled in the GA web stream.
+
+Maintain one `analytics.js` reference and the privacy footer on every public HTML page. Access to reports is managed inside Google Analytics; no report or public admin dashboard is hosted here.
