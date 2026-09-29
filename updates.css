@@ -34,3 +34,9 @@ html{line-height:1.5;-webkit-text-size-adjust:100%}body{-webkit-font-smoothing:a
 .privacy-preferences button{font:inherit;font-size:14px;color:var(--ink);background:white;border:1px solid #81959e;border-radius:3px;padding:10px 16px;cursor:pointer}
 .privacy-preferences button:focus-visible{outline:3px solid #159e8d;outline-offset:4px}
 .privacy-english{border-top:1px solid var(--line);margin-top:45px}
+
+/* Professor profile links share the existing button style. */
+.page-professor .profile-links{display:flex;flex-direction:column;gap:10px;margin-top:30px;flex-shrink:0;max-width:100%}
+.page-professor .profile-links .scholar-button{margin-top:0;justify-content:space-between;font-size:12px;line-height:1.5;padding:8px 12px;gap:12px}
+@media(max-width:650px){.page-professor .profile-links{flex-direction:row;flex-wrap:wrap;margin-top:8px}}
+
