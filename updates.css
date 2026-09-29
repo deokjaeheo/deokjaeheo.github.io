@@ -37,6 +37,6 @@ html{line-height:1.5;-webkit-text-size-adjust:100%}body{-webkit-font-smoothing:a
 
 /* Professor profile links share the existing button style. */
 .page-professor .profile-links{display:flex;flex-direction:column;gap:10px;margin-top:30px;flex-shrink:0;max-width:100%}
-.page-professor .profile-links .scholar-button{margin-top:0;justify-content:space-between;font-size:12px;line-height:1.5;padding:8px 12px;gap:12px}
+.page-professor .profile-links .scholar-button{align-self:flex-start;margin-top:0;justify-content:space-between;font-size:12px;line-height:1.5;padding:8px 12px;gap:12px}
 @media(max-width:650px){.page-professor .profile-links{flex-direction:row;flex-wrap:wrap;margin-top:8px}}
 
