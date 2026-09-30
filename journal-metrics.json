@@ -1,0 +1,1027 @@
+{
+  "verified_on": "2026-09-30",
+  "source": "Clarivate Journal Citation Reports, accessed through Kumoh National Institute of Technology Library",
+  "reference_year": "Final publication year minus one; JCR data year, not JCR release year.",
+  "top_percent_method": "100 minus the highest category JIF percentile displayed in JCR, rounded to one decimal place (half up).",
+  "journals": {
+    "Functional Composites and Structures": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=FUNCT%20COMPOS%20STRUCT&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2025": {
+          "status": "available",
+          "if": "3.5",
+          "category": "MATERIALS SCIENCE, COMPOSITES",
+          "rank": "17/35",
+          "quartile": "Q2",
+          "jif_percentile": 52.9,
+          "categories": [
+            {
+              "category": "MATERIALS SCIENCE, COMPOSITES",
+              "rank": "17/35",
+              "quartile": "Q2",
+              "jif_percentile": 52.9
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "248/472",
+              "quartile": "Q3",
+              "jif_percentile": 47.6
+            }
+          ]
+        }
+      }
+    },
+    "International Journal of Precision Engineering and Manufacturing-Green Technology": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=INT%20J%20PR%20ENG%20MAN-GT&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2025": {
+          "status": "available",
+          "if": "6.6",
+          "category": "ENGINEERING, MECHANICAL",
+          "rank": "17/184",
+          "quartile": "Q1",
+          "jif_percentile": 91,
+          "categories": [
+            {
+              "category": "ENGINEERING, MANUFACTURING",
+              "rank": "14/71",
+              "quartile": "Q1",
+              "jif_percentile": 81
+            },
+            {
+              "category": "ENGINEERING, MECHANICAL",
+              "rank": "17/184",
+              "quartile": "Q1",
+              "jif_percentile": 91
+            },
+            {
+              "category": "GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY",
+              "rank": "40/114",
+              "quartile": "Q2",
+              "jif_percentile": 65.4
+            }
+          ]
+        }
+      }
+    },
+    "Nano Energy": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=NANO%20ENERGY&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2025": {
+          "status": "available",
+          "if": "16.7",
+          "category": "PHYSICS, APPLIED",
+          "rank": "11/191",
+          "quartile": "Q1",
+          "jif_percentile": 94.5,
+          "categories": [
+            {
+              "category": "CHEMISTRY, PHYSICAL",
+              "rank": "16/191",
+              "quartile": "Q1",
+              "jif_percentile": 91.9
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "33/472",
+              "quartile": "Q1",
+              "jif_percentile": 93.1
+            },
+            {
+              "category": "NANOSCIENCE & NANOTECHNOLOGY",
+              "rank": "15/148",
+              "quartile": "Q1",
+              "jif_percentile": 90.2
+            },
+            {
+              "category": "PHYSICS, APPLIED",
+              "rank": "11/191",
+              "quartile": "Q1",
+              "jif_percentile": 94.5
+            }
+          ]
+        },
+        "2022": {
+          "status": "available",
+          "if": "17.6",
+          "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+          "rank": "18/344",
+          "quartile": "Q1",
+          "jif_percentile": 94.9,
+          "categories": [
+            {
+              "category": "CHEMISTRY, PHYSICAL",
+              "rank": "11/161",
+              "quartile": "Q1",
+              "jif_percentile": 93.5
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "18/344",
+              "quartile": "Q1",
+              "jif_percentile": 94.9
+            },
+            {
+              "category": "NANOSCIENCE & NANOTECHNOLOGY",
+              "rank": "10/108",
+              "quartile": "Q1",
+              "jif_percentile": 91.2
+            },
+            {
+              "category": "PHYSICS, APPLIED",
+              "rank": "9/160",
+              "quartile": "Q1",
+              "jif_percentile": 94.7
+            }
+          ]
+        },
+        "2021": {
+          "status": "available",
+          "if": "19.069",
+          "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+          "rank": "18/345",
+          "quartile": "Q1",
+          "jif_percentile": 94.93,
+          "categories": [
+            {
+              "category": "CHEMISTRY, PHYSICAL",
+              "rank": "11/165",
+              "quartile": "Q1",
+              "jif_percentile": 93.64
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "18/345",
+              "quartile": "Q1",
+              "jif_percentile": 94.93
+            },
+            {
+              "category": "NANOSCIENCE & NANOTECHNOLOGY",
+              "rank": "9/109",
+              "quartile": "Q1",
+              "jif_percentile": 92.2
+            },
+            {
+              "category": "PHYSICS, APPLIED",
+              "rank": "10/161",
+              "quartile": "Q1",
+              "jif_percentile": 94.1
+            }
+          ]
+        },
+        "2020": {
+          "status": "available",
+          "if": "17.881",
+          "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+          "rank": "16/334",
+          "quartile": "Q1",
+          "jif_percentile": 95.36,
+          "categories": [
+            {
+              "category": "CHEMISTRY, PHYSICAL",
+              "rank": "10/162",
+              "quartile": "Q1",
+              "jif_percentile": 94.14
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "16/334",
+              "quartile": "Q1",
+              "jif_percentile": 95.36
+            },
+            {
+              "category": "NANOSCIENCE & NANOTECHNOLOGY",
+              "rank": "7/106",
+              "quartile": "Q1",
+              "jif_percentile": 93.87
+            },
+            {
+              "category": "PHYSICS, APPLIED",
+              "rank": "9/160",
+              "quartile": "Q1",
+              "jif_percentile": 94.69
+            }
+          ]
+        },
+        "2019": {
+          "status": "available",
+          "if": "16.602",
+          "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+          "rank": "14/314",
+          "quartile": "Q1",
+          "jif_percentile": 95.7,
+          "categories": [
+            {
+              "category": "CHEMISTRY, PHYSICAL",
+              "rank": "9/159",
+              "quartile": "Q1",
+              "jif_percentile": 94.65
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "14/314",
+              "quartile": "Q1",
+              "jif_percentile": 95.7
+            },
+            {
+              "category": "NANOSCIENCE & NANOTECHNOLOGY",
+              "rank": "7/103",
+              "quartile": "Q1",
+              "jif_percentile": 93.69
+            },
+            {
+              "category": "PHYSICS, APPLIED",
+              "rank": "8/155",
+              "quartile": "Q1",
+              "jif_percentile": 95.16
+            }
+          ]
+        },
+        "2017": {
+          "status": "available",
+          "if": "13.120",
+          "category": "PHYSICS, APPLIED",
+          "rank": "7/146",
+          "quartile": "Q1",
+          "jif_percentile": 95.55,
+          "categories": [
+            {
+              "category": "CHEMISTRY, PHYSICAL",
+              "rank": "9/147",
+              "quartile": "Q1",
+              "jif_percentile": 94.22
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "15/285",
+              "quartile": "Q1",
+              "jif_percentile": 94.91
+            },
+            {
+              "category": "NANOSCIENCE & NANOTECHNOLOGY",
+              "rank": "7/92",
+              "quartile": "Q1",
+              "jif_percentile": 92.93
+            },
+            {
+              "category": "PHYSICS, APPLIED",
+              "rank": "7/146",
+              "quartile": "Q1",
+              "jif_percentile": 95.55
+            }
+          ]
+        }
+      }
+    },
+    "Small Structures": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=SMALL%20STRUCT&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2024": {
+          "status": "available",
+          "if": "11.3",
+          "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+          "rank": "48/461",
+          "quartile": "Q1",
+          "jif_percentile": 89.7,
+          "categories": [
+            {
+              "category": "CHEMISTRY, PHYSICAL",
+              "rank": "29/185",
+              "quartile": "Q1",
+              "jif_percentile": 84.6
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "48/461",
+              "quartile": "Q1",
+              "jif_percentile": 89.7
+            },
+            {
+              "category": "NANOSCIENCE & NANOTECHNOLOGY",
+              "rank": "18/147",
+              "quartile": "Q1",
+              "jif_percentile": 88.1
+            }
+          ]
+        }
+      }
+    },
+    "Advanced Science": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=ADV%20SCI&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2024": {
+          "status": "available",
+          "if": "14.1",
+          "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+          "rank": "33/461",
+          "quartile": "Q1",
+          "jif_percentile": 93,
+          "categories": [
+            {
+              "category": "CHEMISTRY, MULTIDISCIPLINARY",
+              "rank": "19/239",
+              "quartile": "Q1",
+              "jif_percentile": 92.3
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "33/461",
+              "quartile": "Q1",
+              "jif_percentile": 93
+            },
+            {
+              "category": "NANOSCIENCE & NANOTECHNOLOGY",
+              "rank": "15/147",
+              "quartile": "Q1",
+              "jif_percentile": 90.1
+            }
+          ]
+        },
+        "2022": {
+          "status": "available",
+          "if": "15.1",
+          "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+          "rank": "24/344",
+          "quartile": "Q1",
+          "jif_percentile": 93.2,
+          "categories": [
+            {
+              "category": "CHEMISTRY, MULTIDISCIPLINARY",
+              "rank": "16/178",
+              "quartile": "Q1",
+              "jif_percentile": 91.3
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "24/344",
+              "quartile": "Q1",
+              "jif_percentile": 93.2
+            },
+            {
+              "category": "NANOSCIENCE & NANOTECHNOLOGY",
+              "rank": "14/108",
+              "quartile": "Q1",
+              "jif_percentile": 87.5
+            }
+          ]
+        },
+        "2021": {
+          "status": "available",
+          "if": "17.521",
+          "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+          "rank": "21/345",
+          "quartile": "Q1",
+          "jif_percentile": 94.06,
+          "categories": [
+            {
+              "category": "CHEMISTRY, MULTIDISCIPLINARY",
+              "rank": "14/179",
+              "quartile": "Q1",
+              "jif_percentile": 92.46
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "21/345",
+              "quartile": "Q1",
+              "jif_percentile": 94.06
+            },
+            {
+              "category": "NANOSCIENCE & NANOTECHNOLOGY",
+              "rank": "12/109",
+              "quartile": "Q1",
+              "jif_percentile": 89.45
+            }
+          ]
+        }
+      }
+    },
+    "KOBRA Reports": {
+      "source_url": "https://jcr.clarivate.com/jcr/home",
+      "years": {
+        "2024": {
+          "status": "not_available",
+          "reason": "No JCR record was found for KOBRA Reports in the official journal search; 2024 IF and JCR percentile are unavailable."
+        }
+      }
+    },
+    "Scientific Reports": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=SCI%20REP-UK&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2024": {
+          "status": "available",
+          "if": "3.9",
+          "category": "MULTIDISCIPLINARY SCIENCES",
+          "rank": "25/136",
+          "quartile": "Q1",
+          "jif_percentile": 82,
+          "categories": [
+            {
+              "category": "MULTIDISCIPLINARY SCIENCES",
+              "rank": "25/136",
+              "quartile": "Q1",
+              "jif_percentile": 82
+            }
+          ]
+        }
+      }
+    },
+    "Clinics in Orthopedic Surgery": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=CLIN%20ORTHOP%20SURG&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2023": {
+          "status": "available",
+          "if": "1.9",
+          "category": "ORTHOPEDICS",
+          "rank": "55/136",
+          "quartile": "Q2",
+          "jif_percentile": 59.9,
+          "categories": [
+            {
+              "category": "ORTHOPEDICS",
+              "rank": "55/136",
+              "quartile": "Q2",
+              "jif_percentile": 59.9
+            }
+          ]
+        }
+      }
+    },
+    "npj Flexible Electronics": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=NPJ%20FLEX%20ELECTRON&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2023": {
+          "status": "available",
+          "if": "12.3",
+          "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+          "rank": "7/353",
+          "quartile": "Q1",
+          "jif_percentile": 98.2,
+          "categories": [
+            {
+              "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+              "rank": "7/353",
+              "quartile": "Q1",
+              "jif_percentile": 98.2
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "38/439",
+              "quartile": "Q1",
+              "jif_percentile": 91.5
+            }
+          ]
+        }
+      }
+    },
+    "Chemical Engineering Journal": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=CHEM%20ENG%20J&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2023": {
+          "status": "available",
+          "if": "13.4",
+          "category": "ENGINEERING, ENVIRONMENTAL",
+          "rank": "3/81",
+          "quartile": "Q1",
+          "jif_percentile": 96.9,
+          "categories": [
+            {
+              "category": "ENGINEERING, CHEMICAL",
+              "rank": "7/170",
+              "quartile": "Q1",
+              "jif_percentile": 96.2
+            },
+            {
+              "category": "ENGINEERING, ENVIRONMENTAL",
+              "rank": "3/81",
+              "quartile": "Q1",
+              "jif_percentile": 96.9
+            }
+          ]
+        },
+        "2022": {
+          "status": "available",
+          "if": "15.1",
+          "category": "ENGINEERING, CHEMICAL",
+          "rank": "5/142",
+          "quartile": "Q1",
+          "jif_percentile": 96.8,
+          "categories": [
+            {
+              "category": "ENGINEERING, CHEMICAL",
+              "rank": "5/142",
+              "quartile": "Q1",
+              "jif_percentile": 96.8
+            },
+            {
+              "category": "ENGINEERING, ENVIRONMENTAL",
+              "rank": "3/55",
+              "quartile": "Q1",
+              "jif_percentile": 95.5
+            }
+          ]
+        }
+      }
+    },
+    "Advanced Functional Materials": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=ADV%20FUNCT%20MATER&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2023": {
+          "status": "available",
+          "if": "18.5",
+          "category": "CHEMISTRY, MULTIDISCIPLINARY",
+          "rank": "10/231",
+          "quartile": "Q1",
+          "jif_percentile": 95.9,
+          "categories": [
+            {
+              "category": "CHEMISTRY, MULTIDISCIPLINARY",
+              "rank": "10/231",
+              "quartile": "Q1",
+              "jif_percentile": 95.9
+            },
+            {
+              "category": "CHEMISTRY, PHYSICAL",
+              "rank": "11/178",
+              "quartile": "Q1",
+              "jif_percentile": 94.1
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "21/439",
+              "quartile": "Q1",
+              "jif_percentile": 95.3
+            },
+            {
+              "category": "NANOSCIENCE & NANOTECHNOLOGY",
+              "rank": "9/141",
+              "quartile": "Q1",
+              "jif_percentile": 94
+            },
+            {
+              "category": "PHYSICS, APPLIED",
+              "rank": "9/179",
+              "quartile": "Q1",
+              "jif_percentile": 95.3
+            },
+            {
+              "category": "PHYSICS, CONDENSED MATTER",
+              "rank": "5/79",
+              "quartile": "Q1",
+              "jif_percentile": 94.3
+            }
+          ]
+        }
+      }
+    },
+    "Advanced Engineering Materials": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=ADV%20ENG%20MATER&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2023": {
+          "status": "available",
+          "if": "3.4",
+          "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+          "rank": "188/439",
+          "quartile": "Q2",
+          "jif_percentile": 57.3,
+          "categories": [
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "188/439",
+              "quartile": "Q2",
+              "jif_percentile": 57.3
+            }
+          ]
+        }
+      }
+    },
+    "Science Advances": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=SCI%20ADV&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2023": {
+          "status": "available",
+          "if": "11.7",
+          "category": "MULTIDISCIPLINARY SCIENCES",
+          "rank": "11/134",
+          "quartile": "Q1",
+          "jif_percentile": 92.2,
+          "categories": [
+            {
+              "category": "MULTIDISCIPLINARY SCIENCES",
+              "rank": "11/134",
+              "quartile": "Q1",
+              "jif_percentile": 92.2
+            }
+          ]
+        }
+      }
+    },
+    "Applied Energy": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=APPL%20ENERG&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2022": {
+          "status": "available",
+          "if": "11.2",
+          "category": "ENGINEERING, CHEMICAL",
+          "rank": "9/142",
+          "quartile": "Q1",
+          "jif_percentile": 94,
+          "categories": [
+            {
+              "category": "ENERGY & FUELS",
+              "rank": "15/119",
+              "quartile": "Q1",
+              "jif_percentile": 87.8
+            },
+            {
+              "category": "ENGINEERING, CHEMICAL",
+              "rank": "9/142",
+              "quartile": "Q1",
+              "jif_percentile": 94
+            }
+          ]
+        }
+      }
+    },
+    "ACS Energy Letters": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=ACS%20ENERGY%20LETT&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2022": {
+          "status": "available",
+          "if": "22.0",
+          "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+          "rank": "13/344",
+          "quartile": "Q1",
+          "jif_percentile": 96.4,
+          "categories": [
+            {
+              "category": "CHEMISTRY, PHYSICAL",
+              "rank": "7/161",
+              "quartile": "Q1",
+              "jif_percentile": 96
+            },
+            {
+              "category": "ELECTROCHEMISTRY",
+              "rank": "2/30",
+              "quartile": "Q1",
+              "jif_percentile": 95
+            },
+            {
+              "category": "ENERGY & FUELS",
+              "rank": "6/119",
+              "quartile": "Q1",
+              "jif_percentile": 95.4
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "13/344",
+              "quartile": "Q1",
+              "jif_percentile": 96.4
+            },
+            {
+              "category": "NANOSCIENCE & NANOTECHNOLOGY",
+              "rank": "5/108",
+              "quartile": "Q1",
+              "jif_percentile": 95.8
+            }
+          ]
+        }
+      }
+    },
+    "Current Applied Physics": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=CURR%20APPL%20PHYS&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2022": {
+          "status": "available",
+          "if": "2.4",
+          "category": "PHYSICS, APPLIED",
+          "rank": "88/160",
+          "quartile": "Q3",
+          "jif_percentile": 45.3,
+          "categories": [
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "228/344",
+              "quartile": "Q3",
+              "jif_percentile": 33.9
+            },
+            {
+              "category": "PHYSICS, APPLIED",
+              "rank": "88/160",
+              "quartile": "Q3",
+              "jif_percentile": 45.3
+            }
+          ]
+        }
+      }
+    },
+    "Advanced Energy Materials": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=ADV%20ENERGY%20MATER&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2022": {
+          "status": "available",
+          "if": "27.8",
+          "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+          "rank": "9/344",
+          "quartile": "Q1",
+          "jif_percentile": 97.5,
+          "categories": [
+            {
+              "category": "CHEMISTRY, PHYSICAL",
+              "rank": "5/161",
+              "quartile": "Q1",
+              "jif_percentile": 97.2
+            },
+            {
+              "category": "ENERGY & FUELS",
+              "rank": "5/119",
+              "quartile": "Q1",
+              "jif_percentile": 96.2
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "9/344",
+              "quartile": "Q1",
+              "jif_percentile": 97.5
+            },
+            {
+              "category": "PHYSICS, APPLIED",
+              "rank": "6/160",
+              "quartile": "Q1",
+              "jif_percentile": 96.6
+            },
+            {
+              "category": "PHYSICS, CONDENSED MATTER",
+              "rank": "4/67",
+              "quartile": "Q1",
+              "jif_percentile": 94.8
+            }
+          ]
+        },
+        "2021": {
+          "status": "available",
+          "if": "29.698",
+          "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+          "rank": "9/345",
+          "quartile": "Q1",
+          "jif_percentile": 97.54,
+          "categories": [
+            {
+              "category": "CHEMISTRY, PHYSICAL",
+              "rank": "5/165",
+              "quartile": "Q1",
+              "jif_percentile": 97.27
+            },
+            {
+              "category": "ENERGY & FUELS",
+              "rank": "5/119",
+              "quartile": "Q1",
+              "jif_percentile": 96.22
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "9/345",
+              "quartile": "Q1",
+              "jif_percentile": 97.54
+            },
+            {
+              "category": "PHYSICS, APPLIED",
+              "rank": "6/161",
+              "quartile": "Q1",
+              "jif_percentile": 96.58
+            },
+            {
+              "category": "PHYSICS, CONDENSED MATTER",
+              "rank": "3/69",
+              "quartile": "Q1",
+              "jif_percentile": 96.38
+            }
+          ]
+        },
+        "2018": {
+          "status": "available",
+          "if": "24.884",
+          "category": "CHEMISTRY, PHYSICAL",
+          "rank": "3/148",
+          "quartile": "Q1",
+          "jif_percentile": 98.31,
+          "categories": [
+            {
+              "category": "CHEMISTRY, PHYSICAL",
+              "rank": "3/148",
+              "quartile": "Q1",
+              "jif_percentile": 98.31
+            },
+            {
+              "category": "ENERGY & FUELS",
+              "rank": "4/103",
+              "quartile": "Q1",
+              "jif_percentile": 96.6
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "6/293",
+              "quartile": "Q1",
+              "jif_percentile": 98.12
+            },
+            {
+              "category": "PHYSICS, APPLIED",
+              "rank": "4/148",
+              "quartile": "Q1",
+              "jif_percentile": 97.64
+            },
+            {
+              "category": "PHYSICS, CONDENSED MATTER",
+              "rank": "4/68",
+              "quartile": "Q1",
+              "jif_percentile": 94.85
+            }
+          ]
+        }
+      }
+    },
+    "Advanced Materials Technologies": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=ADV%20MATER%20TECHNOL-US&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2022": {
+          "status": "available",
+          "if": "6.8",
+          "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+          "rank": "82/344",
+          "quartile": "Q1",
+          "jif_percentile": 76.3,
+          "categories": [
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "82/344",
+              "quartile": "Q1",
+              "jif_percentile": 76.3
+            }
+          ]
+        }
+      }
+    },
+    "Science and Technology of Advanced Materials": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=SCI%20TECHNOL%20ADV%20MAT&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2021": {
+          "status": "available",
+          "if": "7.662",
+          "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+          "rank": "78/345",
+          "quartile": "Q1",
+          "jif_percentile": 77.54,
+          "categories": [
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "78/345",
+              "quartile": "Q1",
+              "jif_percentile": 77.54
+            }
+          ]
+        },
+        "2019": {
+          "status": "available",
+          "if": "5.866",
+          "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+          "rank": "63/314",
+          "quartile": "Q1",
+          "jif_percentile": 80.1,
+          "categories": [
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "63/314",
+              "quartile": "Q1",
+              "jif_percentile": 80.1
+            }
+          ]
+        }
+      }
+    },
+    "Journal of Korean Institute of Electrical and Electronic Materials Engineers": {
+      "source_url": "https://jcr.clarivate.com/jcr/home",
+      "years": {
+        "2021": {
+          "status": "not_available",
+          "reason": "No JCR record was found for ISSN 1226-7945 in the official journal search; 2021 IF and JCR percentile are unavailable."
+        }
+      }
+    },
+    "iScience": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=ISCIENCE&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2020": {
+          "status": "available",
+          "if": "5.458",
+          "category": "MULTIDISCIPLINARY SCIENCES",
+          "rank": "14/72",
+          "quartile": "Q1",
+          "jif_percentile": 81.25,
+          "categories": [
+            {
+              "category": "MULTIDISCIPLINARY SCIENCES",
+              "rank": "14/72",
+              "quartile": "Q1",
+              "jif_percentile": 81.25
+            }
+          ]
+        }
+      }
+    },
+    "Nanomaterials": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=NANOMATERIALS-BASEL&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2020": {
+          "status": "available",
+          "if": "5.076",
+          "category": "PHYSICS, APPLIED",
+          "rank": "35/160",
+          "quartile": "Q1",
+          "jif_percentile": 78.44,
+          "categories": [
+            {
+              "category": "CHEMISTRY, MULTIDISCIPLINARY",
+              "rank": "55/178",
+              "quartile": "Q2",
+              "jif_percentile": 69.38
+            },
+            {
+              "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY",
+              "rank": "103/334",
+              "quartile": "Q2",
+              "jif_percentile": 69.31
+            },
+            {
+              "category": "NANOSCIENCE & NANOTECHNOLOGY",
+              "rank": "51/106",
+              "quartile": "Q2",
+              "jif_percentile": 52.36
+            },
+            {
+              "category": "PHYSICS, APPLIED",
+              "rank": "35/160",
+              "quartile": "Q1",
+              "jif_percentile": 78.44
+            }
+          ]
+        }
+      }
+    },
+    "Energies": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=ENERGIES&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2020": {
+          "status": "available",
+          "if": "3.004",
+          "category": "ENERGY & FUELS",
+          "rank": "70/114",
+          "quartile": "Q3",
+          "jif_percentile": 39.04,
+          "categories": [
+            {
+              "category": "ENERGY & FUELS",
+              "rank": "70/114",
+              "quartile": "Q3",
+              "jif_percentile": 39.04
+            }
+          ]
+        }
+      }
+    },
+    "Composites Research": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=COMPOS%20RES&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2018": {
+          "status": "not_available",
+          "reason": "The JCR profile starts in 2020. There are no 2018 JCR metrics for this 2019 publication."
+        }
+      }
+    },
+    "Micromachines": {
+      "source_url": "https://jcr-clarivate-com.libproxy.kumoh.ac.kr/jcr-jp/journal-profile?journal=MICROMACHINES-BASEL&year=2025&fromPage=%2Fjcr%2Fhome",
+      "years": {
+        "2017": {
+          "status": "available",
+          "if": "2.222",
+          "category": "INSTRUMENTS & INSTRUMENTATION",
+          "rank": "22/61",
+          "quartile": "Q2",
+          "jif_percentile": 64.75,
+          "categories": [
+            {
+              "category": "INSTRUMENTS & INSTRUMENTATION",
+              "rank": "22/61",
+              "quartile": "Q2",
+              "jif_percentile": 64.75
+            },
+            {
+              "category": "NANOSCIENCE & NANOTECHNOLOGY",
+              "rank": "56/92",
+              "quartile": "Q3",
+              "jif_percentile": 39.67
+            }
+          ]
+        }
+      }
+    }
+  }
+}

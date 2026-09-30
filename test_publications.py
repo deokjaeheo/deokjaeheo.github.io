@@ -1,6 +1,7 @@
 """Check completeness, grouping, and unpublished-file isolation."""
 import unittest
 from urllib.parse import urlsplit, unquote
+from decimal import Decimal
 from bs4 import BeautifulSoup
 from render_publications import ROOT, read, render
 
@@ -41,6 +42,30 @@ class PublicationsTest(unittest.TestCase):
     def test_recent_submissions_precede_published_groups(self):
         self.assertEqual([p['id'] for p in self.soup.select('#papers > .publication-group')],['submitted','sci','other'])
         self.assertEqual([p['href'] for p in self.soup.select('#papers .publication-jumps a')],['#submitted','#sci','#other'])
+    def test_domestic_patents_use_only_korean_titles(self):
+        patents=read('patents-data.json')['patents']
+        for category,section in [('granted','granted'),('application','applications')]:
+            expected=sorted([p for p in patents if p['category']==category],key=lambda p:p['date'],reverse=True)
+            shown=self.soup.select(f'#{section} .patent-entry h3')
+            self.assertEqual([p['title_ko'] for p in expected],[p.get_text() for p in shown])
+            self.assertTrue(all(p.get('lang')=='ko' for p in shown))
+        self.assertTrue(self.soup.select_one('#international h3 .ko-translation'))
+    def test_journal_metrics_use_previous_year_and_best_category(self):
+        metrics=read('journal-metrics.json')['journals']
+        papers=self.soup.select('#sci .paper, #other .paper')
+        self.assertEqual(len(papers),len(self.soup.select('.journal-metrics')))
+        self.assertFalse(self.soup.select('#submitted .journal-metrics'))
+        for paper in self.data['publications']:
+            value=metrics[paper['journal_name']]['years'][str(paper['year']-1)]
+            self.assertIn(value['status'],('available','not_available'))
+            if value['status']=='available':
+                self.assertGreater(Decimal(value['if']),0)
+                self.assertEqual(value['jif_percentile'],max(c['jif_percentile'] for c in value['categories']))
+                self.assertTrue(any(c['category']==value['category'] and c['rank']==value['rank'] and c['jif_percentile']==value['jif_percentile'] for c in value['categories']))
+            else:
+                self.assertTrue(value['reason'])
+        example=self.soup.select_one('[data-record-id="10.1016/j.nanoen.2023.108793"] .journal-metrics')
+        self.assertEqual(example.get_text(),'(2022 IF: 17.6, JCR Top 5.1%)')
     def test_render_is_repeatable(self):
         self.assertEqual(self.html,render(self.data,self.html))
     def test_covers_match_published_papers(self):

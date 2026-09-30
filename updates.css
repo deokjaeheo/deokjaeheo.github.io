@@ -40,3 +40,6 @@ html{line-height:1.5;-webkit-text-size-adjust:100%}body{-webkit-font-smoothing:a
 .page-professor .profile-links .scholar-button{align-self:flex-start;margin-top:0;justify-content:space-between;font-size:12px;line-height:1.5;padding:8px 12px;gap:12px}
 @media(max-width:650px){.page-professor .profile-links{flex-direction:row;flex-wrap:wrap;margin-top:8px}}
 
+
+/* Previous-year journal metrics next to the publication citation. */
+.page-publications .journal-metrics{font-weight:400;letter-spacing:0}

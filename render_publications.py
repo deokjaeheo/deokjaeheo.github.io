@@ -1,6 +1,7 @@
 """Render curated public metadata only. No network access or manuscript files."""
 from pathlib import Path
 from html import escape
+from decimal import Decimal, ROUND_HALF_UP
 from urllib.parse import urlsplit
 import json
 from bs4 import BeautifulSoup
@@ -21,10 +22,25 @@ def cover_gallery():
         image=escape(cover['image'],quote=True)
         parts.append(f'<figure class="cover-card"><a class="cover-image-link" href="{image}" target="_blank" rel="noopener noreferrer" aria-label="{escape(cover["journal"])} {cover["issue"]} {cover["kind"]} 전체 이미지"><img src="{image}" width="761" height="1000" alt="{escape(cover["journal"])} · {cover["issue"]} · {cover["kind"]}"/></a><figcaption><h3>{escape(cover["journal"])}</h3><p class="cover-kind">{cover["kind"]} · {cover["issue"]}</p><a class="cover-paper-title" href="https://doi.org/{cover["doi"]}" target="_blank" rel="noopener noreferrer" aria-label="{escape(cover["title"],quote=True)} 논문 보기">View paper <span aria-hidden="true">↗</span></a></figcaption></figure>')
     return ''.join(parts)+'</div></section>'
-def paper(p, i, submitted=False):
+def metric_label(p, metrics):
+    year=p['year']-1
+    value=metrics['journals'][p['journal_name']]['years'][str(year)]
+    if value['status']=='not_available':
+        text=f'({year} IF: N/A, JCR Top: N/A)'
+        detail=value['reason']
+    elif value['status']=='available':
+        top=(Decimal('100')-Decimal(str(value['jif_percentile']))).quantize(Decimal('0.1'),rounding=ROUND_HALF_UP)
+        text=f'({year} IF: {value["if"]}, JCR Top {top}%)'
+        detail=f'{value["category"]} · JIF rank {value["rank"]} · JIF percentile {value["jif_percentile"]}'
+    else:
+        raise ValueError('Journal metrics must be verified or explicitly unavailable')
+    return f'<span class="journal-metrics" title="{escape(detail,quote=True)}">{escape(text)}</span>'
+
+def paper(p, i, submitted=False, metrics=None):
     title=escape(p['title'])
     meta='Submitted · 투고 완료' if submitted else escape(p['journal'])
     if not submitted:
+        meta += ' '+metric_label(p,metrics)
         if urlsplit(p['url']).scheme!='https': raise ValueError('Published paper requires HTTPS URL')
         url=escape(p['url'],quote=True)
         title=f'<a href="{url}" rel="noopener noreferrer" target="_blank">{title}</a>'
@@ -34,6 +50,7 @@ def paper(p, i, submitted=False):
     return f'<article class="{cls}" data-record-id="{escape(p["id"],quote=True)}"><div class="paper-index">{i:02d}</div><div><p class="journal">{meta}</p><h3>{title}</h3><p class="authors">{authors(p["authors_html"])}</p></div>{arrow}</article>'
 def render(data, html):
     records=data['publications']
+    metrics=read('journal-metrics.json')
     if any(p.get('category') not in ('sci','other') for p in records):
         raise ValueError('Every paper must have a reviewed SCI(E)/other classification')
     submitted=read('submitted-data.json')['manuscripts']
@@ -43,13 +60,13 @@ def render(data, html):
       '<nav class="publication-tabs" aria-label="Publication type"><a id="tab-papers" href="#papers">Papers <span>논문</span></a><a id="tab-patents" href="#patents">Patents <span>특허</span></a></nav>',
       '<div class="publication-panel" id="papers"><nav class="publication-jumps" aria-label="Paper categories">',
       f'<a href="#submitted">Submitted · {len(submitted)}</a><a href="#sci">SCI(E) · {len(sci)}</a><a href="#other">Other journals · {len(other)}</a></nav>',
-      f'<p class="list-note">{len(records)} published papers · {len(submitted)} submitted manuscripts<br/><sup>†</sup> First / co-first author · <sup>*</sup> Corresponding author</p>']
+      f'<p class="list-note">{len(records)} published papers · {len(submitted)} submitted manuscripts<br/><sup>†</sup> First / co-first author · <sup>*</sup> Corresponding author<br/>Journal metrics: publication year − 1; JCR Top % = 100 − highest category JIF percentile. N/A: no JCR metric for that year.</p>']
     sections.append(heading('submitted','Submitted manuscripts','투고 논문',len(submitted)))
     for i,p in enumerate(submitted,1): sections.append(paper(p,i,True))
     sections.append('</section>')
     for id,title,korean,group in [('sci','SCI(E) journals','SCI·SCIE 학술지',sci),('other','Other journals','SCI(E) 외 학술지 · ESCI, Scopus, KCI 등',other)]:
         sections.append(heading(id,title,korean,len(group)))
-        for i,p in enumerate(sorted(group,key=lambda p:p['sort_date'],reverse=True),1): sections.append(paper(p,i))
+        for i,p in enumerate(sorted(group,key=lambda p:p['sort_date'],reverse=True),1): sections.append(paper(p,i,metrics=metrics))
         sections.append('</section>')
     sections.append('</div><div class="publication-panel" id="patents">')
     sections.append('<nav class="publication-jumps" aria-label="Patent categories"><a href="#granted">Korean grants · 12</a><a href="#applications">Korean applications · 2</a><a href="#international">International applications</a></nav>')
@@ -62,7 +79,11 @@ def render(data, html):
             date=(' · '+p['date'].replace('-','.')) if p.get('date') else ''
             names=escape(p['inventors']).replace('Deokjae Heo','<strong>Deokjae Heo</strong>')
             names_ko=escape(p['inventors_ko']).replace('허덕재','<strong>허덕재</strong>')
-            sections.append(f'<article class="patent-entry"><div class="paper-index">{i:02d}</div><div><p class="journal">{escape(number+date)}</p><h3>{escape(p["title"])}<span class="ko-translation" lang="ko">{escape(p["title_ko"])}</span></h3><p class="authors">{names}<span class="patent-inventors-ko" lang="ko">{names_ko}</span></p></div></article>')
+            if category in ('granted','application'):
+                patent_title=f'<h3 lang="ko">{escape(p["title_ko"])}</h3>'
+            else:
+                patent_title=f'<h3>{escape(p["title"])}<span class="ko-translation" lang="ko">{escape(p["title_ko"])}</span></h3>'
+            sections.append(f'<article class="patent-entry"><div class="paper-index">{i:02d}</div><div><p class="journal">{escape(number+date)}</p>{patent_title}<p class="authors">{names}<span class="patent-inventors-ko" lang="ko">{names_ko}</span></p></div></article>')
         sections.append('</section>')
     sections.append('</div>')
     soup=BeautifulSoup(html,'html.parser')

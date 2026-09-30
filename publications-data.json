@@ -8,17 +8,19 @@
       "url": "https://doi.org/10.1088/2631-6331/ae9373",
       "year": 2026,
       "sort_date": "2026-09-01",
-      "category": "other"
+      "category": "other",
+      "journal_name": "Functional Composites and Structures"
     },
     {
       "id": "10.1007/s40684-026-00847-z",
       "title": "Rowing Machine Integrated Multifunctional Triboelectric Nanogenerator for Exercise Motion Energy Harvesting",
-      "journal": "International Journal of Precision Engineering and Manufacturing-Green Technology 13, 1881–1891 (2026.07)",
+      "journal": "International Journal of Precision Engineering and Manufacturing-Green Technology 13(4), 1881–1891 (2026.07)",
       "authors_html": "Jaeung Choi<sup>†</sup>, Seh-Hoon Chung<sup>†</sup>, <strong>Deokjae Heo</strong>, Sunghan Kim, Jinkee Hong<sup>*</sup>, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.1007/s40684-026-00847-z",
       "year": 2026,
       "sort_date": "2026-07-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "International Journal of Precision Engineering and Manufacturing-Green Technology"
     },
     {
       "id": "10.1016/j.nanoen.2026.111767",
@@ -28,7 +30,8 @@
       "url": "https://doi.org/10.1016/j.nanoen.2026.111767",
       "year": 2026,
       "sort_date": "2026-04-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Nano Energy"
     },
     {
       "id": "10.1002/sstr.202500280",
@@ -38,7 +41,8 @@
       "url": "https://doi.org/10.1002/sstr.202500280",
       "year": 2025,
       "sort_date": "2025-12-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Small Structures"
     },
     {
       "id": "10.1002/advs.202502278",
@@ -48,7 +52,8 @@
       "url": "https://doi.org/10.1002/advs.202502278",
       "year": 2025,
       "sort_date": "2025-08-14",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Advanced Science"
     },
     {
       "id": "10.64066/kobrareports.25.0010",
@@ -58,7 +63,8 @@
       "url": "https://doi.org/10.64066/kobrareports.25.0010",
       "year": 2025,
       "sort_date": "2025-08-11",
-      "category": "other"
+      "category": "other",
+      "journal_name": "KOBRA Reports"
     },
     {
       "id": "10.1038/s41598-025-02516-8",
@@ -68,7 +74,8 @@
       "url": "https://doi.org/10.1038/s41598-025-02516-8",
       "year": 2025,
       "sort_date": "2025-05-24",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Scientific Reports"
     },
     {
       "id": "10.4055/cios24081",
@@ -78,7 +85,8 @@
       "url": "https://doi.org/10.4055/cios24081",
       "year": 2024,
       "sort_date": "2024-12-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Clinics in Orthopedic Surgery"
     },
     {
       "id": "10.1038/s41528-024-00364-6",
@@ -88,7 +96,8 @@
       "url": "https://doi.org/10.1038/s41528-024-00364-6",
       "year": 2024,
       "sort_date": "2024-11-14",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "npj Flexible Electronics"
     },
     {
       "id": "10.1016/j.cej.2024.156349",
@@ -98,7 +107,8 @@
       "url": "https://doi.org/10.1016/j.cej.2024.156349",
       "year": 2024,
       "sort_date": "2024-11-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Chemical Engineering Journal"
     },
     {
       "id": "10.1002/adfm.202406032",
@@ -108,7 +118,8 @@
       "url": "https://doi.org/10.1002/adfm.202406032",
       "year": 2024,
       "sort_date": "2024-10-08",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Advanced Functional Materials"
     },
     {
       "id": "10.1002/adem.202400134",
@@ -118,7 +129,8 @@
       "url": "https://doi.org/10.1002/adem.202400134",
       "year": 2024,
       "sort_date": "2024-06-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Advanced Engineering Materials"
     },
     {
       "id": "10.1126/sciadv.adl3075",
@@ -128,7 +140,8 @@
       "url": "https://doi.org/10.1126/sciadv.adl3075",
       "year": 2024,
       "sort_date": "2024-04-26",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Science Advances"
     },
     {
       "id": "10.1016/j.nanoen.2023.108793",
@@ -138,7 +151,8 @@
       "url": "https://doi.org/10.1016/j.nanoen.2023.108793",
       "year": 2023,
       "sort_date": "2023-11-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Nano Energy"
     },
     {
       "id": "10.1002/advs.202301609",
@@ -148,7 +162,8 @@
       "url": "https://doi.org/10.1002/advs.202301609",
       "year": 2023,
       "sort_date": "2023-10-06",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Advanced Science"
     },
     {
       "id": "10.1016/j.cej.2023.144283",
@@ -158,7 +173,8 @@
       "url": "https://doi.org/10.1016/j.cej.2023.144283",
       "year": 2023,
       "sort_date": "2023-08-15",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Chemical Engineering Journal"
     },
     {
       "id": "10.1016/j.apenergy.2023.121248",
@@ -168,7 +184,8 @@
       "url": "https://doi.org/10.1016/j.apenergy.2023.121248",
       "year": 2023,
       "sort_date": "2023-08-15",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Applied Energy"
     },
     {
       "id": "10.1016/j.nanoen.2023.108521",
@@ -178,17 +195,19 @@
       "url": "https://doi.org/10.1016/j.nanoen.2023.108521",
       "year": 2023,
       "sort_date": "2023-08-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Nano Energy"
     },
     {
       "id": "10.1021/acsenergylett.3c00708",
       "title": "Synchronous generation of electrical and cellular energies via body-mediated energy transfer: inevitable electric field concentration",
-      "journal": "ACS Energy Letters 8(7), 2954-2961 (2023.06.09) (Supplementary Cover)",
+      "journal": "ACS Energy Letters 8(7), 2954–2961 (2023.07.14) (Supplementary Cover)",
       "authors_html": "Hyungseok Yong<sup>†</sup>, Hyeonhui Song<sup>†</sup>, Dongchang Kim<sup>†</sup>, Juneil Park, <strong>Deokjae Heo</strong>, Kyunghwan Cha, Myunghwan Song, Sungwon Jung, Woo Jin Choi, Patrick T.J. Hwang, Sunghan Kim, Woochul Nam, Giuk Lee, Jinkee Hong<sup>*</sup>, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.1021/acsenergylett.3c00708",
       "year": 2023,
-      "sort_date": "2023-06-09",
-      "category": "sci"
+      "sort_date": "2023-07-14",
+      "category": "sci",
+      "journal_name": "ACS Energy Letters"
     },
     {
       "id": "10.1016/j.cap.2023.02.020",
@@ -198,7 +217,8 @@
       "url": "https://doi.org/10.1016/j.cap.2023.02.020",
       "year": 2023,
       "sort_date": "2023-05-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Current Applied Physics"
     },
     {
       "id": "10.1002/aenm.202204239",
@@ -208,7 +228,8 @@
       "url": "https://doi.org/10.1002/aenm.202204239",
       "year": 2023,
       "sort_date": "2023-04-13",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Advanced Energy Materials"
     },
     {
       "id": "10.1016/j.nanoen.2022.108130",
@@ -218,7 +239,8 @@
       "url": "https://doi.org/10.1016/j.nanoen.2022.108130",
       "year": 2023,
       "sort_date": "2023-03-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Nano Energy"
     },
     {
       "id": "10.1016/j.cej.2022.141066",
@@ -228,7 +250,8 @@
       "url": "https://doi.org/10.1016/j.cej.2022.141066",
       "year": 2023,
       "sort_date": "2023-02-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Chemical Engineering Journal"
     },
     {
       "id": "10.1002/admt.202200453",
@@ -238,7 +261,8 @@
       "url": "https://doi.org/10.1002/admt.202200453",
       "year": 2023,
       "sort_date": "2023-01-10",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Advanced Materials Technologies"
     },
     {
       "id": "10.1016/j.nanoen.2022.107772",
@@ -248,7 +272,8 @@
       "url": "https://doi.org/10.1016/j.nanoen.2022.107772",
       "year": 2022,
       "sort_date": "2022-12-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Nano Energy"
     },
     {
       "id": "10.1016/j.nanoen.2022.107754",
@@ -258,7 +283,8 @@
       "url": "https://doi.org/10.1016/j.nanoen.2022.107754",
       "year": 2022,
       "sort_date": "2022-12-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Nano Energy"
     },
     {
       "id": "10.1002/aenm.202201001",
@@ -268,7 +294,8 @@
       "url": "https://doi.org/10.1002/aenm.202201001",
       "year": 2022,
       "sort_date": "2022-08-18",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Advanced Energy Materials"
     },
     {
       "id": "10.1002/advs.202105420",
@@ -278,7 +305,8 @@
       "url": "https://doi.org/10.1002/advs.202105420",
       "year": 2022,
       "sort_date": "2022-03-15",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Advanced Science"
     },
     {
       "id": "10.1002/aenm.202103571",
@@ -288,7 +316,8 @@
       "url": "https://doi.org/10.1002/aenm.202103571",
       "year": 2022,
       "sort_date": "2022-03-03",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Advanced Energy Materials"
     },
     {
       "id": "10.1016/j.nanoen.2021.106816",
@@ -298,7 +327,8 @@
       "url": "https://doi.org/10.1016/j.nanoen.2021.106816",
       "year": 2022,
       "sort_date": "2022-03-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Nano Energy"
     },
     {
       "id": "10.1016/j.nanoen.2021.106797",
@@ -308,7 +338,8 @@
       "url": "https://doi.org/10.1016/j.nanoen.2021.106797",
       "year": 2022,
       "sort_date": "2022-03-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Nano Energy"
     },
     {
       "id": "10.1080/14686996.2022.2030195",
@@ -318,17 +349,19 @@
       "url": "https://doi.org/10.1080/14686996.2022.2030195",
       "year": 2022,
       "sort_date": "2022-02-17",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Science and Technology of Advanced Materials"
     },
     {
       "id": "10.4313/jkem.2022.35.1.15",
       "title": "Water-Sloshing-Based Electricity Generating Device via Charge Separation and Accumulation",
-      "journal": "Journal of the Korean Institute of Electrical and Electronic Material Engineers 35(1), 98–101 (2022.01.01)",
+      "journal": "Journal of Korean Institute of Electrical and Electronic Materials Engineers 35(1), 98–101 (2022.01.01)",
       "authors_html": "Kyunghwan Cha<sup>†</sup>, <strong>Deokjae Heo</strong><sup>†</sup>, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.4313/JKEM.2022.35.1.15",
       "year": 2022,
       "sort_date": "2022-01-01",
-      "category": "other"
+      "category": "other",
+      "journal_name": "Journal of Korean Institute of Electrical and Electronic Materials Engineers"
     },
     {
       "id": "10.1016/j.nanoen.2021.106209",
@@ -338,7 +371,8 @@
       "url": "https://doi.org/10.1016/j.nanoen.2021.106209",
       "year": 2021,
       "sort_date": "2021-09-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Nano Energy"
     },
     {
       "id": "10.1016/j.isci.2021.102442",
@@ -348,7 +382,8 @@
       "url": "https://doi.org/10.1016/j.isci.2021.102442",
       "year": 2021,
       "sort_date": "2021-05-21",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "iScience"
     },
     {
       "id": "10.3390/nano11040940",
@@ -358,7 +393,8 @@
       "url": "https://doi.org/10.3390/nano11040940",
       "year": 2021,
       "sort_date": "2021-04-07",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Nanomaterials"
     },
     {
       "id": "10.1016/j.nanoen.2020.105687",
@@ -368,7 +404,8 @@
       "url": "https://doi.org/10.1016/j.nanoen.2020.105687",
       "year": 2021,
       "sort_date": "2021-04-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Nano Energy"
     },
     {
       "id": "10.3390/en14071798",
@@ -378,7 +415,8 @@
       "url": "https://doi.org/10.3390/en14071798",
       "year": 2021,
       "sort_date": "2021-03-24",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Energies"
     },
     {
       "id": "10.1016/j.nanoen.2020.104719",
@@ -388,27 +426,30 @@
       "url": "https://doi.org/10.1016/j.nanoen.2020.104719",
       "year": 2020,
       "sort_date": "2020-06-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Nano Energy"
     },
     {
       "id": "10.1080/14686996.2020.1733920",
       "title": "Versatile surface for solid-solid/liquid-solid triboelectric nanogenerator based on fluorocarbon liquid infused surfaces",
-      "journal": "Science and Technology of Advanced Materials 21, 139-146 (2020.05.05)",
+      "journal": "Science and Technology of Advanced Materials 21(1), 139–146 (2020.03.05)",
       "authors_html": "Jihoon Chung<sup>†</sup>, Handong Cho<sup>†</sup>, Hyungseok Yong, <strong>Deokjae Heo</strong>, You Seung Rim<sup>*</sup>, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.1080/14686996.2020.1733920",
       "year": 2020,
-      "sort_date": "2020-05-05",
-      "category": "sci"
+      "sort_date": "2020-03-05",
+      "category": "sci",
+      "journal_name": "Science and Technology of Advanced Materials"
     },
     {
       "id": "10.1016/j.nanoen.2019.104400",
       "title": "Versatile energy loss conversion for recovering waste alternating potential through polarization transfer medium",
-      "journal": "Nano Energy 69, 104400 (2020.05)",
+      "journal": "Nano Energy 69, 104400 (2020.03)",
       "authors_html": "Hyungseok Yong<sup>†</sup>, <strong>Deokjae Heo</strong>, Banseok Kim, Haksung Moon, Kyungwho Choi<sup>*</sup>, Dongseob Kim<sup>*</sup>, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.1016/j.nanoen.2019.104400",
       "year": 2020,
-      "sort_date": "2020-05-01",
-      "category": "sci"
+      "sort_date": "2020-03-01",
+      "category": "sci",
+      "journal_name": "Nano Energy"
     },
     {
       "id": "10.7234/composres.2019.32.6.301",
@@ -418,7 +459,8 @@
       "url": "https://doi.org/10.7234/composres.2019.32.6.301",
       "year": 2019,
       "sort_date": "2019-12-31",
-      "category": "other"
+      "category": "other",
+      "journal_name": "Composites Research"
     },
     {
       "id": "10.1002/aenm.201901731",
@@ -428,17 +470,19 @@
       "url": "https://doi.org/10.1002/aenm.201901731",
       "year": 2019,
       "sort_date": "2019-10-04",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Advanced Energy Materials"
     },
     {
       "id": "10.3390/mi9110593",
       "title": "Superhydrophobic water-solid contact triboelectric generator by simple spray-on fabrication method",
-      "journal": "Micromachines 9, 593 (2018.11)",
+      "journal": "Micromachines 9(11), 593 (2018.11.13)",
       "authors_html": "Jihoon Chung<sup>†</sup>, <strong>Deokjae Heo</strong><sup>†</sup>, Banseok Kim, Sangmin Lee<sup>*</sup>",
       "url": "https://doi.org/10.3390/mi9110593",
       "year": 2018,
-      "sort_date": "2018-11-01",
-      "category": "sci"
+      "sort_date": "2018-11-13",
+      "category": "sci",
+      "journal_name": "Micromachines"
     },
     {
       "id": "10.1016/j.nanoen.2018.05.013",
@@ -448,7 +492,8 @@
       "url": "https://doi.org/10.1016/j.nanoen.2018.05.013",
       "year": 2018,
       "sort_date": "2018-08-01",
-      "category": "sci"
+      "category": "sci",
+      "journal_name": "Nano Energy"
     }
   ],
   "classification_source": "CV, 2026-09-22"
