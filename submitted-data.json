@@ -1,6 +1,12 @@
 {
   "manuscripts": [
     {
+      "id": "dual-electrode-body-coupled-bone-regeneration",
+      "title": "Dual-electrode-Assisted Body-coupled Electrostimulation Drives In Situ Bone Regeneration via Site-specific Phosphorylation of β-Catenin",
+      "authors_html": "Hyungseok Yong, Seung Cheol Lee, Sungwon Jung, Dong Hyun Lee, Sung-eun Heo, Yeseul Kim, <strong>Deokjae Heo</strong>, Myunghwan Song, Jin-Young Park, Jin Man Kim, Sangmin Lee, Jae-Kook Cha",
+      "status": "Submitted"
+    },
+    {
       "id": "onesnap",
       "title": "One-step single extracellular vesicle nanoplasmonic analysis platform (oneSNAP) for highly efficient biomarker profiling",
       "authors_html": "<strong>Deokjae Heo</strong><sup>†</sup>, Moonhyun Choi<sup>†</sup>, Jaesang Hong, Joongbum Lee, Donato Conteduca, Jinkee Hong, Hyungsoon Im<sup>*</sup>",
